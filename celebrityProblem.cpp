@@ -1,4 +1,5 @@
 #include <iostream>
+using namespace std;
 #define N 4
 
 int knows(int i, int j) {
