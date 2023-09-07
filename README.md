@@ -1,3 +1,3 @@
-# cpp_codes
-Cpp code of some problems and implementation of some data structures will get here.
-you will get solution of some basic and itermidiate problems, alogrithamic implemention of sortings, will get implementation of data structures and opps related codes in cpp.
+Hello, I am Rachit Chandekar.
+I am interested in problem solving and programming, i am a learner, i am learning new skills. Currently i am started learning about web developement.
+You can reach me at linked in, here's my linked in profile:- https://www.linkedin.com/in/rachit-chandekar-12a5b1257/.
